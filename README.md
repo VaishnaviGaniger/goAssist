@@ -40,18 +40,23 @@ git clone https://github.com/your-username/goassist.git
 cd goassist
 
 2. Create virtual environment:
+```bash
 python -m venv env
 
 3. Activate virtual environment
 Windows:
+```bash
 env\Scripts\activate
 Mac/Linux:
+```bash
 source env/bin/activate
 
 4. Install dependencies
+```bash
 pip install -r requirements.txt
 
 5. Run migrations
+```bash
 python manage.py migrate
 
 6. Start the server
