@@ -26,6 +26,10 @@ GoAssist is a robust web-based application designed to simplify task management 
 ## 📸 Screenshots
 [GoAssist HomeScreen](https://github.com/user-attachments/assets/8d464387-aa4b-4b30-9f6d-b7b0b7b2c419)
 [GoAssist Dashboard](https://github.com/user-attachments/assets/72d34695-cd0e-481e-9b6c-28a5e3f7eb65)
+[GoAssist Crete/Assign Task](https://github.com/user-attachments/assets/8fb5f37a-fa1c-46ce-818e-d0002cf8da6c)
+[GoAssist Weekly](https://github.com/user-attachments/assets/4ca927f0-4a2e-474b-944d-4d5be2e400da) 
+[GoAssist Monthly](https://github.com/user-attachments/assets/3e610894-cdf4-477a-8dec-18e45fd6107d)
+[GoAssist Report](https://github.com/user-attachments/assets/e2bdee1d-7b36-4a26-807c-6e87dce7b3da)
 
 
 ## ⚙️ Installation & Setup
