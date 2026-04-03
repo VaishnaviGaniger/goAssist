@@ -38,3 +38,27 @@ GoAssist is a robust web-based application designed to simplify task management 
 ```bash
 git clone https://github.com/your-username/goassist.git
 cd goassist
+
+2. Create virtual environment:
+python -m venv env
+
+3. Activate virtual environment
+Windows:
+env\Scripts\activate
+Mac/Linux:
+source env/bin/activate
+
+4. Install dependencies
+pip install -r requirements.txt
+
+5. Run migrations
+python manage.py migrate
+
+6. Start the server
+python manage.py runserver
+
+7. Open in browser
+http://127.0.0.1:8000/
+
+### 🔑 Default Credentials (if applicable)
+- Admin: vaishnavisg / vaishnavi@312
